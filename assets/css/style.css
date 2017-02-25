@@ -1,0 +1,70 @@
+body {
+	background-image: url("../images/background.jpg.jpg");
+}
+
+h1 {
+
+	background-color: pink;
+	display: inline;
+	clear: both;
+	padding: 20px;
+	margin-top: 30px;
+	border: solid 2px #ddd;
+
+}
+
+#wrapper{
+
+	width: 100%;
+	max-width: 960px;
+	margin: auto 0;
+}
+
+#instructions{
+
+    background-color: pink;
+    width: 50%;
+    clear: both;
+    padding: 15px;
+    margin-top: 100px;
+    border: solid 2px #ddd;
+
+}
+
+#scoreboard{
+
+	background-color: pink;
+	display: inline-block;
+	padding: 15px 40px 10px 15px;
+	margin-top: 20px;
+	margin-left: 20px
+	border: solid 2px #ddd; 
+}
+
+#dogs{
+
+	margin-top: 15px;
+	margin-bottom: 30px;
+}
+
+.dogImage{
+	
+	height: 100px;
+	border: solid 2px #ddd;
+	margin-left: 10px;
+}
+
+#totalScore{
+
+	margin-left: 50px;
+    
+
+}
+
+#yts{
+	background-color: pink;
+	display: inline-block;
+	padding: 10px;
+	border: solid 2px #ddd;
+	margin-left: 10px;
+}
